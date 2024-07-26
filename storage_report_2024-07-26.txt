@@ -1,0 +1,10 @@
+Storage Report for /mnt/plummergrp/Yutian/visiums/ - Fri Jul 26 08:33:41 PM UTC 2024
+=========================
+128K	/mnt/plummergrp/Yutian/visiums/Everado_V2
+16G	/mnt/plummergrp/Yutian/visiums/outs
+5.7G	/mnt/plummergrp/Yutian/visiums/2670114
+5.3G	/mnt/plummergrp/Yutian/visiums/2670115
+101M	/mnt/plummergrp/Yutian/visiums/visium
+3.3G	/mnt/plummergrp/Yutian/visiums/2670113
+4.9G	/mnt/plummergrp/Yutian/visiums/2670112
+35G	/mnt/plummergrp/Yutian/visiums/
